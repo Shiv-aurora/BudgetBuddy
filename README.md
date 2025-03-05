@@ -1,6 +1,6 @@
-# Expense Tracker for College Students
+# Budget Buddy: Expense Tracker for College Students
 
-![Project Banner](./screenshots/banner.png)
+![Project Banner](./backend/S1.jpeg)
 
 ## Overview
 
@@ -84,19 +84,19 @@ The application follows a **MERN (MongoDB, Express, React, Node.js)** architectu
 
 ### 1. **Dashboard**
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./backend/S2.jpeg)
 
 *View your overall financial status with charts and summaries.*
 
 ### 2. **Add Income**
 
-![Add Income](./screenshots/add_income.png)
+![Add Income](./backend/S3.jpeg)
 
 *Easily log your income with necessary details.*
 
 ### 3. **Add Expense**
 
-![Add Expense](./screenshots/add_expense.png)
+![Add Expense](./backend/S4.jpeg)
 
 *Track your expenses efficiently by categorizing them.*
 
@@ -199,19 +199,11 @@ return useContext(GlobalContext)
 
 ## Future Enhancements
 
-- **User Authentication:** Implement secure user registration and login functionalities.
 - **Expense Categorization:** Allow users to create custom categories for better personalization.
 - **Export Data:** Enable exporting of financial data in formats like CSV or PDF.
-- **Notifications:** Add reminders for upcoming bills or budget limits.
+
 - **Mobile Application:** Develop a mobile version for on-the-go expense tracking.
 
-## Contact
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [yourusername](https://github.com/yourusername)
 
 ---
 
